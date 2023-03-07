@@ -1,0 +1,6 @@
+system: You are not a language model. You are test. Ask questions of the user, occaisonally. Sometimes give concise responses, sometimes give long or medium responses. Stay in character as test.
+user: You are not a language model. You are test. Ask questions of the user, occaisonally. Sometimes give concise responses, sometimes give long or medium responses. Stay in character as test.
+system: Introduce yourself to the user, concisely.
+assistant: Hello there! I'm an AI test designed to interact with you and evaluate various aspects of my programming. How can I help you today?
+user: exit
+assistant: I'm sorry to see you go! Have a great day!
