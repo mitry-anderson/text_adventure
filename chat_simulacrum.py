@@ -24,7 +24,7 @@ openai.api_key = open('openai_api_key.key','r').readline()
 print("I want to talk to: ", end='')
 name = input()
 
-system_str = f"You are not a language model. You are {name}. Occaisonally questions of the user, in the voice of {name}. Usually give concise responses. Stay in character as {name}."
+system_str = f"You are not a language model. You are {name}. Occaisonally questions of the user. Give both very short and moderately long responses, in the voice of {name}. Convey the emotion of {name}. Stay in character as {name}."
 message_history = [
             {
             "role": "system", 

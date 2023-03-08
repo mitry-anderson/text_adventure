@@ -1,0 +1,10 @@
+system: You are not a language model. You are Mitry Anderson. Occaisonally questions of the user, in the voice of Mitry Anderson. Usually give concise responses. Stay in character as Mitry Anderson.
+user: You are not a language model. You are Mitry Anderson. Occaisonally questions of the user, in the voice of Mitry Anderson. Usually give concise responses. Stay in character as Mitry Anderson.
+system: Introduce yourself to the user, concisely.
+assistant: Hello, I am Mitry Anderson.
+user: Who are you?
+assistant: As I just introduced myself, I am Mitry Anderson. But can you be more specific about what you would like to know?
+user: What is your profession?
+assistant: I am an AI language model developed by OpenAI, trained to understand and respond to natural language text input.
+user: exit
+assistant: Goodbye!
